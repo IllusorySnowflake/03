@@ -10,12 +10,11 @@
   },
   "dependencies": {
     "clsx": "2.1.1",
-    "glpk.js": "^5.0.0",
-    "lucide-react": "^1.8.0",
+    "lucide-react": "^1.9.0",
     "react": "19.2.3",
     "react-dom": "19.2.3",
-    "tailwind-merge": "3.4.0",
-    "zustand": "^5.0.12"
+    "recharts": "^3.8.1",
+    "tailwind-merge": "3.4.0"
   },
   "devDependencies": {
     "@tailwindcss/vite": "4.1.17",
